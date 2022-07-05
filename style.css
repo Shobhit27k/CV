@@ -1,0 +1,16 @@
+    body{
+        background-color: bisque;
+    }
+    h1{
+        color: fuchsia;
+    }
+    h3{
+        color: fuchsia;
+    }
+    hr{
+        background-color: white;
+        border-style: none;
+        border-top-style: dotted ;
+        border-width: 5px;
+        width: 5%;
+    }
